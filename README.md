@@ -1,2 +1,2 @@
 # plpy
-Python Bilbiothek für verschiedene Experimente im Projektlabor
+Python Bibliothek für verschiedene Experimente im Projektlabor
