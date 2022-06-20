@@ -10,6 +10,13 @@ import plpy as pl
 pl.camera.test()
 pl.counter.test()
 pl.motor.test()
+pl.logger.test()
 
 print(pl.version)
+
+pl.motor.recognice_devices()
+
 #%%
+
+
+print(pl.motor.BAUD_RATE)

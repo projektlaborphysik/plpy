@@ -9,5 +9,6 @@ Created on Tue May 31 21:13:36 2022
 from . import camera
 from . import counter
 from . import motor
+from . import logger
 
 version = 0.1
